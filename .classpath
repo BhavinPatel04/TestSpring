@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/spring-aop-3.2.12.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/spring-beans-3.2.12.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/spring-context-3.2.12.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/spring-core-3.2.12.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/spring-expression-3.2.12.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/spring-jdbc-3.2.12.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/spring-orm-3.2.12.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/spring-tx-3.2.12.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/spring-web-3.2.12.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/spring-webmvc-3.2.12.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/tiles-api-3.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/tiles-autotag-core-runtime-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/tiles-core-3.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/tiles-jsp-3.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/tiles-request-api-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/tiles-request-jsp-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/tiles-request-servlet-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/tiles-servlet-3.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/tiles-template-3.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/MySQL/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/New folder/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/New folder/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/New folder/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/New folder/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/New folder/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/New folder/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/New folder/dom4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/New folder/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/New folder/slf4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/New folder/hibernate-core-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/New folder/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/New folder/New folder/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/hibernate-commons-annotations-4.0.2.final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhavinpatel/Desktop/jars/MySQL/antlr-2.7.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
